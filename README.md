@@ -55,6 +55,21 @@ Ensure you have the following installed:
    streamlit run Home.py
    ```
 
+## Screenshots
+
+Here are some screenshots of the GADAGENI application in action:
+
+![Just Chat Feature](docs/1.png)
+*Figure 1: Just Chat feature demonstrating AI conversation*
+
+![PDF Interaction](docs/2.png)
+*Figure 2: PDF Interaction feature for document analysis and querying*
+
+![Link Summarizer](docs/3.png)
+*Figure 3: Link Summarizer feature providing webpage summaries*
+
+These screenshots showcase the main features of the application, including the Just Chat, PDF Interaction, and Link Summarizer functionalities.
+
 ## Usage
 
 - Open the Streamlit UI in your browser.
