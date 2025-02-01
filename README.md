@@ -82,7 +82,7 @@ All in 1 app that able to interact with AI just using API key
 
 ### **next feature may will be**
 
-- OCR an images put and image and what is the text in it
+- OCR images put and image and what is the text in it
 - image generation (should be API with multi modal)
 - blog post researcher and generator to hugo blog (personal)
 
